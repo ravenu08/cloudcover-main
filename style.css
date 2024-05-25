@@ -1153,6 +1153,16 @@ transform: translate(0);
   .nav-link svg {
     width: 20%;
   }
+  .loading-page{
+    height: 100vh;
+  }
+  .logo-name{
+    font-size: 12px;
+    letter-spacing: 0.75rem;
+  }
+  #cloudLogo{
+    width: 20px;
+  }
 
 }
 
